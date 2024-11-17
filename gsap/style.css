@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: black;
+}
+
+#box {
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+
+#box1 {
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+
+#box2 {
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+}
+
+h1 {
+    color: white;
+}
+
+#box3 {
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+}
+#box4 {
+    height: 300px;
+    width: 300px;
+    background-color: paleturquoise;
+}
+#box5 {
+    height: 300px;
+    width: 300px;
+    background-color: palevioletred;
+}
